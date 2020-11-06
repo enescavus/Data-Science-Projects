@@ -1,0 +1,14 @@
+,Gender,Age,Height,Weight,Blood,relative_headache
+0,female,18,165,53,A Rh+,yes
+1,female,18,171,60,0 Rh+,yes
+2,male,19,167,73,0 Rh+,yes
+3,male,18,170,65,AB Rh+,no
+4,male,18,183,76,0 Rh+,no
+5,male,20,179,100,0 Rh+,no
+6,male,18,175,72,A Rh+,yes
+7,male,18,175,90,0 Rh+,yes
+8,male,18,179,61,0 Rh+,yes
+9,female,18,163,57,A Rh+,yes
+10,male,18,181,82,B Rh+,yes
+11,male,18,177,81,0 Rh+,yes
+12,male,19,181,93,0 Rh+,yes
