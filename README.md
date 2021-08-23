@@ -2,12 +2,62 @@
 
 ***
 
-### Update readme, folder paths and explanations as a roadmap of this repo! 
+# ROADMAP 
+
+___Machine Learning Projects___
+
+    - This folder includes my end-to-end machine learning projects and some similar practices.
+    - Understanding of machine learning models - Regression, SVM, Decision Trees, Random Forest, SVM
+    - Exploring data with visualization libraries
+    - Traning models with different approaches - GridSearch and similar optimizations
+    - Model deployments and GUI integrations
+    - Overall: ML, DL, Data Analysis, Visualization, Deployment, Optimization, Integration
 
 
-__Note:__ Plotly plots are not showing up on Github ipython files.
+___Some Screenshots From My ML Projects___
 
+---
 
-This project is licensed under the terms of the MIT license.
+![Picture 1](ScreenShots/ss0.png)
 
-**_Enes Çavuş_**  - [LinkedIn](https://www.linkedin.com/in/enes-çavuş-057376175)
+---
+
+---
+
+![Picture 1](ScreenShots/ss1.png)
+
+---
+
+---
+
+![Picture 1](ScreenShots/ss2.png)
+
+---
+
+---
+
+![Picture 1](ScreenShots/ss3.png)
+
+---
+
+---
+
+![Picture 1](ScreenShots/ss4.png)
+
+---
+
+---
+
+![Picture 1](ScreenShots/ss5.png)
+
+---
+
+---
+
+![Picture 1](ScreenShots/ss6.png)
+
+---
+
+___ENES ÇAVUŞ - Machine Learning Projects___
+
+___Contact:___ [LinkedIn](https://www.linkedin.com/in/enes-çavuş-057376175)
