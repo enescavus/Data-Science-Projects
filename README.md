@@ -18,6 +18,12 @@ ___Some Screenshots From My ML Projects___
 
 ---
 
+![Picture 1](ScreenShots/ss.png)
+
+---
+
+---
+
 ![Picture 1](ScreenShots/ss0.png)
 
 ---
